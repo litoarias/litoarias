@@ -7,7 +7,7 @@
 
 connect with me here:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anantha-kg/ "Connect on LinkedIn")
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hipolitoarias/ "Connect on LinkedIn")
 [![Medium Badge](https://img.shields.io/badge/-Medium-brightgreen?style=flat&logo=Medium&logoColor=white)](https://medium.com/@litoarias "Connect on Medium")
 
 
