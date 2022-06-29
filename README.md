@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at **Kairos DS**
 - 🌱 I’m currently learning **Kotlin**
 -->
+
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=litoarias.litoarias" alt="visitor badge"/>
+</p>
