@@ -1,29 +1,63 @@
-### Hi there 👋
+# Hey, I'm Hipólito 👋
 
-<b>I am a **Mobile application** developer working in Madrid ✨✨.</b>
+**Senior iOS Developer** • **10+ years experience** • **Madrid** 🇪🇸
 
-- 🔭 I’m currently working at **Kairos Digital Solutions** 
-- ⚙️ I use daily: `.swift`, `.ObjC`.
+Building exceptional mobile experiences with modern iOS technologies. Passionate about clean architecture, performance optimization, and SwiftUI.
 
-connect with me here:
+## 🚀 Current Focus
+- **Lead iOS Developer** at [Kairos Digital Solutions](https://kairosds.com)
+- Architecting scalable SwiftUI applications
+- Mentoring junior developers
+- Exploring async/await patterns and Combine
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hipolitoarias/ "Connect on LinkedIn")
-[![Medium Badge](https://img.shields.io/badge/-Medium-brightgreen?style=flat&logo=Medium&logoColor=white)](https://medium.com/@litoarias "Connect on Medium")
+## 💻 Tech Stack
+```swift
+let expertise = [
+    "Languages": ["Swift", "Objective-C"],
+    "Frameworks": ["SwiftUI", "UIKit", "Combine", "Core Data"],
+    "Architecture": ["MVVM", "Clean Architecture", "Coordinator Pattern"],
+    "Tools": ["Xcode", "Git", "Fastlane", "TestFlight"],
+    "Testing": ["XCTest", "UI Testing", "TDD"]
+]
+```
 
+## 📱 What I Build
+- **Native iOS Apps** with pixel-perfect UI/UX
+- **High-performance** applications handling complex business logic
+- **Scalable architectures** for large development teams
+- **Accessibility-first** solutions following Apple's guidelines
 
-## Github Public Stats
+## 📊 GitHub Analytics
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=litoarias&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/litoarias)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=litoarias&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-<!--
-**litoarias/litoarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=litoarias&layout=compact&theme=dark&hide_border=true)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working at **Kairos DS**
-- 🌱 I’m currently learning **Kotlin**
--->
+## 🌟 Featured Projects
+<!-- Add your best repositories here -->
+- 📱 **[Project Name]** - Brief description of your best iOS project
+- 🛠️ **[Another Project]** - Another impressive project you've worked on
 
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=litoarias.litoarias" alt="visitor badge"/>
-</p>
+## 📝 Latest Articles
+<!-- Add your medium articles or blog posts -->
+- [Article Title](https://medium.com/@litoarias) - Brief description
+- [Another Article](https://medium.com/@litoarias) - Brief description
+
+## 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hipolitoarias/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@litoarias)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
+<div align="center">
+  
+*"Great iOS apps are built with passion, precision, and performance in mind."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=litoarias&color=brightgreen&style=flat-square)
+
+</div>
