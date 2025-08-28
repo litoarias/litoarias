@@ -1,4 +1,4 @@
-# Hey, I'm Hipólito 👋
+## Hey, I'm Hipólito <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 **Senior iOS Developer** • **10+ years experience** • **Madrid** 🇪🇸
 
@@ -7,7 +7,7 @@ Building exceptional mobile experiences with modern iOS technologies. Passionate
 ## 🚀 Current Focus
 - **Lead iOS Developer** at [Kairos Digital Solutions](https://kairosds.com)
 - Architecting scalable SwiftUI applications
-- Mentoring junior developers
+- Mentoring junior developers 👨‍🏫
 - Exploring async/await patterns and Combine
 
 ## 💻 Tech Stack
@@ -23,7 +23,7 @@ let expertise = [
 
 ## 📱 What I Build
 - **Native iOS Apps** with pixel-perfect UI/UX
-- **High-performance** applications handling complex business logic
+- **High-performance** applications handling complex business logic ⚡
 - **Scalable architectures** for large development teams
 - **Accessibility-first** solutions following Apple's guidelines
 
@@ -37,13 +37,12 @@ let expertise = [
 
 </div>
 
-## 🌟 Featured Projects
-<!-- Add your best repositories here -->
+<!-- ## 🌟 Featured Projects
+ Add your best repositories here
 - 📱 **[Project Name]** - Brief description of your best iOS project
-- 🛠️ **[Another Project]** - Another impressive project you've worked on
+- 🛠️ **[Another Project]** - Another impressive project you've worked on -->
 
-## 📝 Latest Articles
-<!-- Add your medium articles or blog posts -->
+ ## 📝 Latest Articles
 - [Distributing Binary Frameworks as Swift Packages](https://litoarias.medium.com/distributing-binary-frameworks-as-swift-packages-bcbf8364487b)
 - [Build and deploy your iOS app to TestFlight with GitHub Actions and Fastlane](https://litoarias.medium.com/continuous-delivery-for-ios-using-fastlane-and-github-actions-edf62ee68ecc)
 
@@ -56,8 +55,8 @@ let expertise = [
 
 <div align="center">
   
-*"Great iOS apps are built with passion, precision, and performance in mind."*
+*"Great iOS apps are built with passion, precision, and performance in mind."* ❤️
 
-![Profile Views](https://komarev.com/ghpvc/?username=litoarias&color=brightgreen&style=flat-square)
+👀 ![Profile Views](https://komarev.com/ghpvc/?username=litoarias&color=brightgreen&style=flat-square)
 
 </div>
