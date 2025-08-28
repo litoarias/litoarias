@@ -44,8 +44,8 @@ let expertise = [
 
 ## 📝 Latest Articles
 <!-- Add your medium articles or blog posts -->
-- [Distributing Binary Frameworks as Swift Packages]([https://medium.com/@litoarias](https://litoarias.medium.com/distributing-binary-frameworks-as-swift-packages-bcbf8364487b)) 
-- [Build and deploy your iOS app to TestFlight with GitHub Actions and Fastlane]([https://medium.com/@litoarias](https://litoarias.medium.com/continuous-delivery-for-ios-using-fastlane-and-github-actions-edf62ee68ecc))
+- [Distributing Binary Frameworks as Swift Packages](https://litoarias.medium.com/distributing-binary-frameworks-as-swift-packages-bcbf8364487b)
+- [Build and deploy your iOS app to TestFlight with GitHub Actions and Fastlane](https://litoarias.medium.com/continuous-delivery-for-ios-using-fastlane-and-github-actions-edf62ee68ecc)
 
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hipolitoarias/)
