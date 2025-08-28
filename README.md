@@ -17,7 +17,7 @@ let expertise = [
     "Frameworks": ["SwiftUI", "UIKit", "Combine", "Core Data"],
     "Architecture": ["MVVM", "Clean Architecture", "Coordinator Pattern"],
     "Tools": ["Xcode", "Git", "Fastlane", "TestFlight"],
-    "Testing": ["XCTest", "UI Testing", "TDD"]
+    "Testing": ["XCTest", "UI Testing"]
 ]
 ```
 
