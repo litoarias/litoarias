@@ -8,8 +8,9 @@ Building exceptional mobile experiences with modern iOS technologies. Passionate
 - **Lead iOS Developer** at [Kairos Digital Solutions](https://kairosds.com)
 - Architecting scalable SwiftUI applications
 - Mentoring junior developers 👨‍🏫
-- Exploring async/await patterns and Combine
-
+- Exploring async/await patterns 
+- Building Moeve: next-generation mobility platform with SwiftUI
+  
 ## 💻 Tech Stack
 ```swift
 let expertise = [
