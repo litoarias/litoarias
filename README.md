@@ -15,7 +15,7 @@ Building exceptional mobile experiences with modern iOS technologies. Passionate
 ```swift
 let expertise = [
     "Languages": ["Swift", "Objective-C"],
-    "Frameworks": ["SwiftUI", "UIKit", "Combine", "Core Data"],
+    "Frameworks": ["SwiftUI", "UIKit", "Combine", "Core Data", "SwiftData"],
     "Architecture": ["MVVM", "Clean Architecture", "Coordinator Pattern"],
     "Tools": ["Xcode", "Git", "Fastlane", "TestFlight"],
     "Testing": ["XCTest", "UI Testing"]
